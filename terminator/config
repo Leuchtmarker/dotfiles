@@ -1,0 +1,164 @@
+[global_config]
+  enabled_plugins = LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler, TerminatorThemes
+  putty_paste_style = True
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.81
+    cursor_color = "#aaaaaa"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    palette = "#282828:#cc241d:#98971a:#d79921:#458588:#b16286:#689d6a:#a89984:#928374:#fb4934:#b8bb26:#fabd2f:#83a598:#d3869b:#8ec07c:#ebdbb2"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Material-Palenight]]
+    background_color = "#2f1e2e"
+    background_darkness = 0.81
+    cursor_color = "#a39e9b"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#a39e9b"
+    show_titlebar = False
+    palette = "#2f1e2e:#ef6155:#48b685:#fec418:#06b6ef:#815ba4:#5bc4bf:#a39e9b:#776e71:#ef6155:#48b685:#fec418:#06b6ef:#815ba4:#5bc4bf:#e7e9db"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Paraiso Dark]]
+    background_color = "#2f1e2e"
+    background_darkness = 0.81
+    cursor_color = "#a39e9b"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#a39e9b"
+    show_titlebar = False
+    palette = "#2f1e2e:#ef6155:#48b685:#fec418:#06b6ef:#815ba4:#5bc4bf:#a39e9b:#776e71:#ef6155:#48b685:#fec418:#06b6ef:#815ba4:#5bc4bf:#e7e9db"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Flatland]]
+    background_color = "#1d1f21"
+    background_darkness = 0.81
+    cursor_color = "#708284"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#b8dbef"
+    show_titlebar = False
+    palette = "#1d1d19:#f18339:#9fd364:#f4ef6d:#5096be:#695abc:#d63865:#ffffff:#1d1d19:#d22a24:#a7d42c:#ff8949:#61b9d0:#695abc:#d63865:#ffffff"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Material-Ocean]]
+    background_color = "#0f111a"
+    background_darkness = 0.81
+    cursor_color = "#ffcc00"
+    cursor_color_fg = False
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#8f93a2"
+    show_titlebar = False
+    palette = "#2e3436:#ff5370:#c3e88d:#ffcb6b:#82aaff:#c792ea:#89ddff:#d3d7cf:#555753:#f07178:#c3e88d:#f78c6c:#729fcf:#bb80b3:#89ddff:#eeeeec"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[AdventureTime]]
+    background_color = "#1f1d45"
+    background_darkness = 0.81
+    cursor_color = "#efbf38"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#f8dcc0"
+    show_titlebar = False
+    palette = "#050404:#bd0013:#4ab118:#e7741e:#0f4ac6:#665993:#70a598:#f8dcc0:#4e7cbf:#fc5f5a:#9eff6e:#efc11a:#1997c6:#9b5953:#c8faf4:#f6f5fb"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Mathias]]
+    background_darkness = 0.81
+    cursor_color = "#bbbbbb"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#bbbbbb"
+    show_titlebar = False
+    palette = "#000000:#e52222:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[NightLion v1]]
+    background_darkness = 0.81
+    cursor_color = "#bbbbbb"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#bbbbbb"
+    show_titlebar = False
+    palette = "#4c4c4c:#bb0000:#5fde8f:#f3f167:#276bd8:#bb00bb:#00dadf:#bbbbbb:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[NightLion v2]]
+    background_color = "#171717"
+    background_darkness = 0.81
+    cursor_color = "#bbbbbb"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#bbbbbb"
+    show_titlebar = False
+    palette = "#4c4c4c:#bb0000:#04f623:#f3f167:#64d0f0:#ce6fdb:#00dadf:#bbbbbb:#555555:#ff5555:#7df71d:#ffff55:#62cbe8:#ff9bf5:#00ccd8:#ffffff"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Royal]]
+    background_color = "#100815"
+    background_darkness = 0.81
+    cursor_color = "#524966"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#514968"
+    show_titlebar = False
+    palette = "#241f2b:#91284c:#23801c:#b49d27:#6580b0:#674d96:#8aaabe:#524966:#312d3d:#d5356c:#2cd946:#fde83b:#90baf9:#a479e3:#acd4eb:#9e8cbd"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Thayer Bright]]
+    background_color = "#1b1d1e"
+    background_darkness = 0.81
+    cursor_color = "#fc971f"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#f8f8f8"
+    show_titlebar = False
+    palette = "#1b1d1e:#f92672:#4df840:#f4fd22:#2757d6:#8c54fe:#38c8b5:#ccccc6:#505354:#ff5995:#b6e354:#feed6c:#3f78ff:#9e6ffe:#23cfd5:#f8f8f2"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Vaughn]]
+    background_color = "#25234f"
+    background_darkness = 0.81
+    cursor_color = "#ff5555"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#dcdccc"
+    show_titlebar = False
+    palette = "#25234f:#705050:#60b48a:#dfaf8f:#5555ff:#f08cc3:#8cd0d3:#709080:#709080:#dca3a3:#60b48a:#f0dfaf:#5555ff:#ec93d3:#93e0e3:#ffffff"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Venom]]
+    background_color = "#060d14"
+    background_darkness = 0.81
+    cursor_color = "#9ecfa2"
+    font = SpaceMono Nerd Font Mono 12
+    foreground_color = "#668198"
+    show_titlebar = False
+    palette = "#2e3436:#e94759:#9ecfa2:#f3efa9:#00898d:#9c21b0:#06989a:#d3d7cf:#555753:#ef2929:#8ae234:#fce94f:#729fcf:#ad7fa8:#34e2e2:#eeeeec"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+  [[Candy]]
+    background_darkness = 0.81
+    cursor_color = "#aaaaaa"
+    font = SpaceMono Nerd Font Mono 12
+    show_titlebar = False
+    palette = "#2e3436:#fa2573:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2:#555753:#fa2573:#8ae234:#fce94f:#729fcf:#fa2573:#34e2e2:#eeeeec"
+    custom_command = fish
+    use_system_font = False
+    copy_on_selection = True
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
